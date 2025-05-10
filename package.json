@@ -1,0 +1,12 @@
+{
+  "name": "com.joestallings.toolcycler",
+  "version": "1.0.0",
+  "displayName": "Transform Tool Cycler",
+  "description": "Cycle through Unity's transform tools using the spacebar.",
+  "unity": "2020.3",
+  "author": {
+    "name": "Joe Stallings",
+    "email": "you@example.com",
+    "url": "https://quadraticgames.com"
+  }
+}
