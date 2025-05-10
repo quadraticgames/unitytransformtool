@@ -47,4 +47,3 @@ Perfect for any Unity developer looking to optimize their scene editing process.
 
 ---
 
-*Consider adding a license (e.g., MIT) to your project if you plan to share it widely.*
